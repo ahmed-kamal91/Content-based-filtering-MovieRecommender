@@ -1,8 +1,8 @@
 <center> <h1> Movie Recommender system : by Content-Based Filtering</h1></center> </br>
 <h2>Deep Learning based Recommender System</h2></br>
 Traditionally, recommender systems are based on methods such as clustering, nearest neighbor and matrix factorization. However, in recent years, deep learning has yielded tremendous success across multiple domains, from image recognition to natural language processing. Recommender systems have also benefited from deep learning's success. In fact, today's state-of-the-art recommender systems such as those at YouTube and Amazon are powered by complex deep learning systems, and less so on traditional methods. </br>
-<img src=![MovieRecommender](https://github.com/ahmed-kamal91/Content-based-filtering-MovieRecommender/assets/91970695/5b2e08eb-7983-4144-aa8f-d8173e3b2caa)
- align=center width="700" height="700"> </br>
+
+![MovieRecommender](https://github.com/ahmed-kamal91/Content-based-filtering-MovieRecommender/assets/91970695/5b2e08eb-7983-4144-aa8f-d8173e3b2caa)</br>
 
 
 #### Note:
