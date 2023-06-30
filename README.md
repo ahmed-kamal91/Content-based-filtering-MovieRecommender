@@ -9,4 +9,19 @@ Traditionally, recommender systems are based on methods such as clustering, near
 this model is made from what I learn from Andrew Ng in course 3 in machine learning specialization</br>
 
 <h2>Why this notebook?</h2></br>
-While reading through the many useful notebooks here that covers the basics of recommender systems using traditional methods such as matrix factorization, I noticed that there is a lack of tutorials that cover deep learning based recommender systems.
+While reading through the many useful notebooks here that covers the basics of recommender systems using traditional methods such as matrix factorization, I noticed that there is a lack of tutorials that cover deep learning based recommender systems.</br>
+
+<h4>Noteook Content :</h4>
+
+* 📚 Libraries
+
+* 📕 Load Data
+
+* 🔍 EDA
+
+* 🪚 Preprocessing
+
+* 🏗️ Neural Network Trainning
+
+* 📏 Prediction
+
